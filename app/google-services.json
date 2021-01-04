@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "743748621976",
+    "firebase_url": "https://kryptotalk-82d82.firebaseio.com",
+    "project_id": "kryptotalk-82d82",
+    "storage_bucket": "kryptotalk-82d82.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:743748621976:android:080177716a4c9100cea2ed",
+        "android_client_info": {
+          "package_name": "com.example.kryptotalk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "743748621976-cqflv8c63ueoco7q4v6asecp2u47ns80.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kryptotalk",
+            "certificate_hash": "f29de5fef0c4c7f05ae50425aed324c7b14a4eb8"
+          }
+        },
+        {
+          "client_id": "743748621976-a784boisvlvn740he64ri531b6tuf4ad.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPGNSuOce15P5HqIebBLXD7mPOTE_FL18"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "743748621976-a784boisvlvn740he64ri531b6tuf4ad.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

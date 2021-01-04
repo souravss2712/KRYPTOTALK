@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">KRYPTOTALK</string>
+    <string name="type_your_message_here">Type</string>
+    <string name="send">hello</string>
+</resources>
